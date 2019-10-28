@@ -1,5 +1,5 @@
-4         Alejandro 
-6         Alejandro 
-6         Gerald 
-7         Ken 
-10        Dan 
+14        Alejandro
+16        Alejandro
+16        Gerald
+17        Ken
+20        Dan
