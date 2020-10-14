@@ -1,5 +1,5 @@
-14        Alejandro
-16        Alejandro
-16        Gerald
-17        Ken
-20        Dan
+0         Anonymous 
+3         Don 
+7         Susan 
+8         Harold 
+8         Jane 
